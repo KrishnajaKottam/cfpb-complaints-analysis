@@ -11,11 +11,13 @@ recommendations.
 A customer-service or compliance manager at a financial company.
 
 ## Questions I will answer
-1. Which products and issues get the most complaints, and how has this changed over time?
-2. Which companies are slowest to respond, and which have the most untimely responses?
-3. Which complaints most often end with money back or an explanation only?
-4. Which Arkansas cities or ZIP codes have the most complaints, and do the problems differ by area?
-5. What should a customer-service team focus on first?
+1. Which products and issues get the most complaints in Arkansas, and how has the volume changed over time?
+2. How much of the data is credit reporting, and which three companies drive it?
+3. Outside credit reporting, which products (debt collection, credit cards, banks) have the most complaints and what are the main issues?
+4. Which companies have the most untimely responses or complaints still in progress?
+5. How do outcomes (explanation, non-monetary relief, monetary relief) differ by product and company?
+6. Which Arkansas ZIP areas have the most complaints?
+7. What should a customer-service team focus on first?
 
 ## Data
 - **Source:** CFPB Consumer Complaint Database
