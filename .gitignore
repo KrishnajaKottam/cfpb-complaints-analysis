@@ -221,3 +221,5 @@ __marimo__/
 
 data/raw/
 data/processed/
+.DS_Store
+Untitled*.ipynb
