@@ -1,3 +1,8 @@
-1. ~67% of times complaints are increading with each month.
-2. The main issue in credit reporting is with incorrect information
-3. Other than credit report, collecting the debt is the main problem.
+Complaints are growing fast. Monthly volume rose from 625 (Jan 2024) to 5,099 (Oct 2026), about 8x. Yearly totals: 13,589 in 2024, 38,210 in 2025, and 47,907 in 2026 through Nov 4. The 2026 figure is already ~25% above all of 2025.
+Credit reporting dominates. It accounts for 88.8% of all complaints. The three big bureaus alone make up ~96% of those (TransUnion 34.4%, Equifax 31.9%, Experian 29.6%).
+Most credit reporting complaints are about accuracy. 57.6% are "Incorrect information on your report", 23.0% are about a company's investigation into a dispute, and 18.4% are "Improper use of your report".
+Outside credit reporting, debt collection leads. It is 51.1% of the remaining 11,199 complaints. The top issue is "Attempts to collect debt not owed" (2,897 complaints).
+Credit reporting complaints are far more likely to get relief. Among closed complaints, 39.0% of credit reporting complaints ended in relief versus 21.7% for other products, a 17.2-point gap (two-proportion z-test, p < 0.001). Almost all of that relief is non-monetary. Monetary relief is rare in credit reporting (0.0%) and highest for prepaid cards (11.9%), credit cards (11.3%) and checking/savings (10.5%).
+Untimely responses are rare overall but concentrated. Only 422 of 99,709 complaints (0.4%) got no timely response. Among companies with 100+ complaints, MOHELA (51.2%, 67 of 131) and CCS Financial Services (16.8%, 18 of 107) stand out. Equifax had zero.
+Geography. ZIP3 areas 722, 721 and 720 (the Little Rock area) have the most complaints (18.8K, 16.6K and 15.8K). These are raw counts, not per capita.
+Vulnerable groups. 2.9% of complaints carry a tag: Servicemember (2.2%), Older American (0.5%) or both (0.2%).
