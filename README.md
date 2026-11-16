@@ -26,7 +26,7 @@ A customer-service or compliance manager at a financial company.
 - **Note:** Findings apply to Arkansas only, not the whole US.
 
 ## Tools
-SQL (DuckDB), Python (pandas, matplotlib, seaborn), Power BI
+SQL (DuckDB), Python (pandas, matplotlib, seaborn), Tableau
 
 ## Dashboard
 Built in Tableau Desktop. 
